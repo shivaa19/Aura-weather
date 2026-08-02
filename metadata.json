@@ -1,0 +1,6 @@
+{
+  "name": "Aura Weather",
+  "description": "An atmospheric, glassmorphic weather app featuring live weather forecasts, 7-day predictions, interactive radar, saved locations, severe storm warnings, and AI weather insights.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
