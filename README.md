@@ -2,6 +2,12 @@
 
 A modern and responsive weather application built with React, TypeScript, and Vite. It provides real-time weather information with a clean UI and a smooth user experience.
 
+## 🌐 Live Demo
+
+👉 **https://aura-weather-brown.vercel.app/**
+
+---
+
 ## 🚀 Features
 
 - 🌍 Search weather by city
@@ -18,7 +24,7 @@ A modern and responsive weather application built with React, TypeScript, and Vi
 - React.js
 - TypeScript
 - Vite
-- CSS / Tailwind CSS (if used)
+- CSS
 - Weather API
 
 ## 📦 Installation
@@ -66,7 +72,10 @@ Contributions are welcome! Feel free to fork the repository and submit a pull re
 
 **Shivam Singh**
 
-- GitHub: https://github.com/shivaa19
-- LinkedIn: https://www.linkedin.com/in/shivaaa19
+- 🌐 Live Demo: https://aura-weather-brown.vercel.app/
+- 💻 GitHub: https://github.com/shivaa19
+- 🔗 LinkedIn: https://www.linkedin.com/in/shivaaa19
+
+---
 
 ⭐ If you like this project, please consider giving it a star!
